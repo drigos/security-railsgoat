@@ -3,6 +3,7 @@ rulesets:
 - ruby-code-style
 - ruby-security
 - ruby-best-practices
+- ruby-inclusive
 - rails-best-practices
 - docker-best-practices
 ignore:
